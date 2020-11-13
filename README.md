@@ -9,7 +9,7 @@
 1. Get a Face API account
 
    ```bash
-   https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesFace
+   https://ms.portal.azure.com/?WT.mc_id=academic-0000-chnoring#create/Microsoft.CognitiveServicesFace
    ```
 
 1. Go to `Keys and Endpoint` for the resource. Note down values of `KEY1` and `Endpoint`
